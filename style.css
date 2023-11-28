@@ -1,0 +1,19 @@
+.riddle{
+    text-align: center;
+}
+
+.riddle__text{
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.riddle__button{
+    width: 240px;
+    height: 40px;
+    border: 2px solid #e000ff;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.1);
+    font-size: 22px;
+    color: #e000ff;
+}
