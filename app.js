@@ -1,5 +1,5 @@
-const createButton = document.querySelectorAll('.riddle__button')
-const createText = document.querySelectorAll('.riddle__text')
+const createButton = document.querySelector('.riddle__button')
+const createText = document.querySelector('.riddle__text')
 
 
 const riddle = () => {
